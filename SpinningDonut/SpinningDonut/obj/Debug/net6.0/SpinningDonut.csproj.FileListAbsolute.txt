@@ -1,0 +1,15 @@
+C:\Users\marce\Documents\GitHub\SpinningDonut\SpinningDonut\bin\Debug\net6.0\SpinningDonut.exe
+C:\Users\marce\Documents\GitHub\SpinningDonut\SpinningDonut\bin\Debug\net6.0\SpinningDonut.deps.json
+C:\Users\marce\Documents\GitHub\SpinningDonut\SpinningDonut\bin\Debug\net6.0\SpinningDonut.runtimeconfig.json
+C:\Users\marce\Documents\GitHub\SpinningDonut\SpinningDonut\bin\Debug\net6.0\SpinningDonut.dll
+C:\Users\marce\Documents\GitHub\SpinningDonut\SpinningDonut\bin\Debug\net6.0\SpinningDonut.pdb
+C:\Users\marce\Documents\GitHub\SpinningDonut\SpinningDonut\obj\Debug\net6.0\SpinningDonut.csproj.AssemblyReference.cache
+C:\Users\marce\Documents\GitHub\SpinningDonut\SpinningDonut\obj\Debug\net6.0\SpinningDonut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Documents\GitHub\SpinningDonut\SpinningDonut\obj\Debug\net6.0\SpinningDonut.AssemblyInfoInputs.cache
+C:\Users\marce\Documents\GitHub\SpinningDonut\SpinningDonut\obj\Debug\net6.0\SpinningDonut.AssemblyInfo.cs
+C:\Users\marce\Documents\GitHub\SpinningDonut\SpinningDonut\obj\Debug\net6.0\SpinningDonut.csproj.CoreCompileInputs.cache
+C:\Users\marce\Documents\GitHub\SpinningDonut\SpinningDonut\obj\Debug\net6.0\SpinningDonut.dll
+C:\Users\marce\Documents\GitHub\SpinningDonut\SpinningDonut\obj\Debug\net6.0\refint\SpinningDonut.dll
+C:\Users\marce\Documents\GitHub\SpinningDonut\SpinningDonut\obj\Debug\net6.0\SpinningDonut.pdb
+C:\Users\marce\Documents\GitHub\SpinningDonut\SpinningDonut\obj\Debug\net6.0\SpinningDonut.genruntimeconfig.cache
+C:\Users\marce\Documents\GitHub\SpinningDonut\SpinningDonut\obj\Debug\net6.0\ref\SpinningDonut.dll
